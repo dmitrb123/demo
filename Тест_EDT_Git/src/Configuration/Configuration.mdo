@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="44bc9a53-0318-412c-b530-8f828943e0db">
+  <name>Тест_EDT_Git</name>
+  <synonym>
+    <key>ru</key>
+    <value>Тест EDT git</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="ab81e0dd-6a18-4468-ad5c-b6b9ef74f4f3"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="cb6ac5d0-8241-4a43-b05e-4e3d75e6045f"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="00e69cc6-5ac1-4b9d-9a9a-ffd87b65a452"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="0abb5687-9a56-4d68-b7eb-e725ad754864"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="74db3167-b7a0-4792-acf5-a27c89eb8774"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="20f32aa5-8e00-4c65-8b20-e7eabe1ddbf3"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="1ec1b8dc-0874-4aaa-ac0f-22f27999e4f6"/>
+  <configurationExtensionCompatibilityMode>8.3.21</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.21</compatibilityMode>
+  <languages uuid="82710647-eb24-4b32-b047-9f5b6b575483">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+  <catalogs>Catalog.Пользователи</catalogs>
+</mdclass:Configuration>
